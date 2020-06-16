@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87ee104b-cd93-4b8d-abbc-1abce5cc8d76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dGFSPNgNxuis8Zs6R8XOVLAvpv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean" />
+      <recent name="$PROJECT_DIR$/ocean2-server/src/main/java" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/register.do" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OceanServerMain">
+    <configuration name="testocean2#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/testocean2.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="OceanServerMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="coean2-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ocean.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ocean.test.OceanServerMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OceanServerMain" />
+        <item itemvalue="HTTP Request.testocean2#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87ee104b-cd93-4b8d-abbc-1abce5cc8d76" name="Default Changelist" comment="" />
+      <created>1592043521878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592043521878</updated>
+      <workItem from="1592043524045" duration="3114000" />
+      <workItem from="1592055305784" duration="2136000" />
+      <workItem from="1592093837384" duration="7339000" />
+      <workItem from="1592341581969" duration="30000" />
+      <workItem from="1592341616133" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="82" key="#Inspections" timestamp="1592044905941">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state x="320" y="82" key="#Inspections/0.23.1440.784@0.23.1440.784" timestamp="1592044905941" />
+    <state x="492" y="280" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592094581315">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state x="492" y="280" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.784@0.23.1440.784" timestamp="1592094581315" />
+    <state width="1398" height="151" key="GridCell.Tab.0.bottom" timestamp="1592124777936">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.0.bottom/0.23.1440.784@0.23.1440.784" timestamp="1592124777936" />
+    <state width="1398" height="151" key="GridCell.Tab.0.center" timestamp="1592124777936">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.0.center/0.23.1440.784@0.23.1440.784" timestamp="1592124777936" />
+    <state width="1398" height="151" key="GridCell.Tab.0.left" timestamp="1592124777936">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.0.left/0.23.1440.784@0.23.1440.784" timestamp="1592124777936" />
+    <state width="1398" height="151" key="GridCell.Tab.0.right" timestamp="1592124777936">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.0.right/0.23.1440.784@0.23.1440.784" timestamp="1592124777936" />
+    <state width="1398" height="151" key="GridCell.Tab.1.bottom" timestamp="1592124777937">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.1.bottom/0.23.1440.784@0.23.1440.784" timestamp="1592124777937" />
+    <state width="1398" height="151" key="GridCell.Tab.1.center" timestamp="1592124777937">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.1.center/0.23.1440.784@0.23.1440.784" timestamp="1592124777937" />
+    <state width="1398" height="151" key="GridCell.Tab.1.left" timestamp="1592124777937">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.1.left/0.23.1440.784@0.23.1440.784" timestamp="1592124777937" />
+    <state width="1398" height="151" key="GridCell.Tab.1.right" timestamp="1592124777937">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.1.right/0.23.1440.784@0.23.1440.784" timestamp="1592124777937" />
+    <state width="1398" height="151" key="GridCell.Tab.2.bottom" timestamp="1592124777938">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.2.bottom/0.23.1440.784@0.23.1440.784" timestamp="1592124777938" />
+    <state width="1398" height="151" key="GridCell.Tab.2.center" timestamp="1592124777937">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.2.center/0.23.1440.784@0.23.1440.784" timestamp="1592124777937" />
+    <state width="1398" height="151" key="GridCell.Tab.2.left" timestamp="1592124777937">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.2.left/0.23.1440.784@0.23.1440.784" timestamp="1592124777937" />
+    <state width="1398" height="151" key="GridCell.Tab.2.right" timestamp="1592124777938">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.2.right/0.23.1440.784@0.23.1440.784" timestamp="1592124777938" />
+    <state x="376" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1592341581667">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state x="376" y="249" key="com.intellij.ide.util.TipDialog/0.23.1440.784@0.23.1440.784" timestamp="1592341581667" />
+    <state x="184" y="208" key="new project wizard" timestamp="1592046762314">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state x="184" y="208" key="new project wizard/0.23.1440.784@0.23.1440.784" timestamp="1592046762314" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.6.RELEASE/spring-context-5.0.6.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>887</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

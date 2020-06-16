@@ -1,0 +1,28 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.ocean.cloud.RegisterConfigProperties",
+      "name": "ocean.register",
+      "type": "com.ocean.cloud.RegisterConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.ocean.cloud.RegisterConfigProperties",
+      "defaultValue": 0,
+      "name": "ocean.register.expel-timer-ms",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.ocean.cloud.RegisterConfigProperties",
+      "name": "ocean.register.hostname",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.ocean.cloud.RegisterConfigProperties",
+      "name": "ocean.register.register-url",
+      "type": "java.lang.String"
+    }
+  ]
+}
