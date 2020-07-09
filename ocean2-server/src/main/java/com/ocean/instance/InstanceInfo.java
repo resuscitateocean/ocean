@@ -2,22 +2,28 @@ package com.ocean.instance;
 
 
 import com.ocean.constant.InstanceStatus;
+import lombok.Data;
 
+/**
+ * 实例信息
+ * @author Ocean Chou
+ */
+@Data
 public class InstanceInfo {
 
-
+	//ip地址
 	private String ipAddr;
-
+	//主机名
 	private String hostName;
-
+	//实例id
 	private String instanceId;
-
+	//实例名
 	private String instanceName;
-
+	//过期时间
 	private int timeLimit;
-
+	//端口号
 	private String port;
-
+	//实例状态
 	private InstanceStatus instanceStatus;
 
 	@Override
@@ -33,59 +39,4 @@ public class InstanceInfo {
 				'}';
 	}
 
-	public int getTimeLimit() {
-		return timeLimit;
-	}
-
-	public void setTimeLimit(int timeLimit) {
-		this.timeLimit = timeLimit;
-	}
-
-	public String getIpAddr() {
-		return ipAddr;
-	}
-
-	public void setIpAddr(String ipAddr) {
-		this.ipAddr = ipAddr;
-	}
-
-	public String getHostName() {
-		return hostName;
-	}
-
-	public void setHostName(String hostName) {
-		this.hostName = hostName;
-	}
-
-	public String getInstanceId() {
-		return instanceId;
-	}
-
-	public void setInstanceId(String instanceId) {
-		this.instanceId = instanceId;
-	}
-
-	public String getInstanceName() {
-		return instanceName;
-	}
-
-	public void setInstanceName(String instanceName) {
-		this.instanceName = instanceName;
-	}
-
-	public String getPort() {
-		return port;
-	}
-
-	public void setPort(String port) {
-		this.port = port;
-	}
-
-	public InstanceStatus getInstanceStatus() {
-		return instanceStatus;
-	}
-
-	public void setInstanceStatus(InstanceStatus instanceStatus) {
-		this.instanceStatus = instanceStatus;
-	}
 }

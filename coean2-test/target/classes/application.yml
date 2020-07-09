@@ -1,3 +1,5 @@
 ocean:
   register:
     registerUrl: 127.0.0.1
+    serverId: 1
+    hostName: firstServer

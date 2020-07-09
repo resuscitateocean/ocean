@@ -5,6 +5,10 @@ import com.ocean.instance.InstanceInfo;
 
 import org.springframework.context.ApplicationEvent;
 
+/**
+ * 实例注册事件
+ * @author Ocean Chou
+ */
 public class InstanceRegisterEvent extends ApplicationEvent {
 
     private InstanceInfo instanceInfo;
@@ -24,7 +28,6 @@ public class InstanceRegisterEvent extends ApplicationEvent {
         this.instanceInfo = info;
         this.isSync = isSync;
         this.timeLimit = timeLimit;
-
     }
 
 

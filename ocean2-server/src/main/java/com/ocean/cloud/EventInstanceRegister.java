@@ -10,9 +10,10 @@ import org.springframework.context.ApplicationEvent;
 
 /**
  * @author Ocean Chou
+ *
+ * 基于事件发布的实例注册
  */
 
-//发布事件
 public class EventInstanceRegister extends SyncInstanceRegister {
 
 	@Autowired
@@ -20,9 +21,9 @@ public class EventInstanceRegister extends SyncInstanceRegister {
 
 	public void handleRegisterEvent(InstanceInfo info, int timeLimit, boolean isSync) {
 		pushEvent(new InstanceRegisterEvent(this, info, timeLimit, isSync));
-//        super.register(info,timeLimit,isSync);
 	}
 
+	//ApplicationContext发布事件，让spring容器消费
 	public void pushEvent(ApplicationEvent event) {
 		applicationContext.publishEvent(event);
 	}

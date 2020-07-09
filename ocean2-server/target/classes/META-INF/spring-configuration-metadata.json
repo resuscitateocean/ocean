@@ -2,26 +2,25 @@
   "hints": [],
   "groups": [
     {
-      "sourceType": "com.ocean.cloud.RegisterConfigProperties",
-      "name": "ocean.register",
-      "type": "com.ocean.cloud.RegisterConfigProperties"
+      "sourceType": "com.ocean.cloud.ServerConfigProperties",
+      "name": "ocean.server",
+      "type": "com.ocean.cloud.ServerConfigProperties"
     }
   ],
   "properties": [
     {
-      "sourceType": "com.ocean.cloud.RegisterConfigProperties",
-      "defaultValue": 0,
-      "name": "ocean.register.expel-timer-ms",
-      "type": "java.lang.Integer"
-    },
-    {
-      "sourceType": "com.ocean.cloud.RegisterConfigProperties",
-      "name": "ocean.register.hostname",
+      "sourceType": "com.ocean.cloud.ServerConfigProperties",
+      "name": "ocean.server.hostname",
       "type": "java.lang.String"
     },
     {
-      "sourceType": "com.ocean.cloud.RegisterConfigProperties",
-      "name": "ocean.register.register-url",
+      "sourceType": "com.ocean.cloud.ServerConfigProperties",
+      "name": "ocean.server.register-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.ocean.cloud.ServerConfigProperties",
+      "name": "ocean.server.server-id",
       "type": "java.lang.String"
     }
   ]

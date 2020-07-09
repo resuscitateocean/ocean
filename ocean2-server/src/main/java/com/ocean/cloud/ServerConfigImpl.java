@@ -1,16 +1,24 @@
 package com.ocean.cloud;
 
 
-import com.ocean.instance.InstanceConfig;
+import com.ocean.instance.ServerConfig;
+
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  * @author Ocean Chou
+ *
+ * server的配置信息
  */
-public class InstanceConfigImpl implements InstanceConfig {
+public class ServerConfigImpl implements ServerConfig {
 
     @Autowired
-    RegisterConfigProperties registerConfigProperties;
+   ServerConfigProperties registerConfigProperties;
+
+    @Override
+    public String getServerId() {
+        return registerConfigProperties.getServerId();
+    }
 
     @Override
     public String getInstanceName() {
@@ -22,8 +30,4 @@ public class InstanceConfigImpl implements InstanceConfig {
         return registerConfigProperties.getRegisterUrl();
     }
 
-    @Override
-    public long getExpelTimerMs() {
-        return registerConfigProperties.getExpelTimerMs();
-    }
 }

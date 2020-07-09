@@ -9,6 +9,7 @@ import org.springframework.web.servlet.DispatcherServlet;
 
 /**
  * @author Ocean Chou
+ * 启动dispatcherServlet
  */
 public class OceanWebApplicationInitializer implements WebApplicationInitializer {
 

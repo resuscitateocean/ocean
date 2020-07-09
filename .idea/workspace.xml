@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ee104b-cd93-4b8d-abbc-1abce5cc8d76" name="Default Changelist" comment="" />
+    <list default="true" id="87ee104b-cd93-4b8d-abbc-1abce5cc8d76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/registry/ServerInstanceRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coean2-test/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/coean2-test/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coean2-test/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/coean2-test/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/EventInstanceRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/EventInstanceRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/InstanceConfigImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/ServerConfigImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/InstanceRegisterEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/InstanceRegisterEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/OceanServerAutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/OceanServerAutoConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/OceanWebApplicationInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/OceanWebApplicationInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/RegisterConfigProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/ServerConfigProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/ResourceInstanceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/ServerContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/cloud/ServerContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/controller/ApplicationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/controller/ApplicationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/instance/InstanceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/instance/ServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/instance/InstanceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/instance/InstanceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/instance/Lease.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/instance/Lease.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/registry/InstanceRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/registry/InstanceRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/registry/SyncInstanceRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/registry/SyncInstanceRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean/servlet/ResourceInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/EventInstanceRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/EventInstanceRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/InstanceConfigImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/InstanceRegisterEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/InstanceRegisterEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/OceanServerAutoConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/OceanServerAutoConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/OceanWebApplicationInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/OceanWebApplicationInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/RegisterConfigProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/ResourceInstanceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/ServerContext$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/ServerContext$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/ServerContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/cloud/ServerContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/controller/ApplicationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/controller/ApplicationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/instance/InstanceConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/instance/InstanceInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/instance/InstanceInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/instance/Lease.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/instance/Lease.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/registry/InstanceRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/registry/InstanceRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/registry/SyncInstanceRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/registry/SyncInstanceRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean2-server/target/classes/com/ocean/servlet/ResourceInstance.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +49,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTTP Request" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dGFSPNgNxuis8Zs6R8XOVLAvpv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,6 +74,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ocean2-server/src/main/java/com/ocean" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RebelAgentSelection">
@@ -46,6 +91,325 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="client-register.do" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="ipAddr" />
+                <option name="value" value="127.0.0.1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="hostName" />
+                <option name="value" value="myHost" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceId" />
+                <option name="value" value="clinet-001" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceName" />
+                <option name="value" value="client" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="timeLimit" />
+                <option name="value" value="4000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="port" />
+                <option name="value" value="8080" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="register.do" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="ipAddr" />
+                <option name="value" value="127.0.0.1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="hostName" />
+                <option name="value" value="myHost" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceId" />
+                <option name="value" value="clinet-001" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceName" />
+                <option name="value" value="client" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="timeLimit" />
+                <option name="value" value="4000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="port" />
+                <option name="value" value="8080" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="register.do" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="ipAddr" />
+                <option name="value" value="127.0.0.1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="hostName" />
+                <option name="value" value="xxx" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceId" />
+                <option name="value" value="clinet-001" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceName" />
+                <option name="value" value="client" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="timeLimit" />
+                <option name="value" value="4000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="port" />
+                <option name="value" value="8080" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="ipAddr" />
+                <option name="value" value="127.0.0.1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="hostName" />
+                <option name="value" value="xxx" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceId" />
+                <option name="value" value="clinet-001" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceName" />
+                <option name="value" value="client" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="timeLimit" />
+                <option name="value" value="4000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="port" />
+                <option name="value" value="8080" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="ipAddr" />
+                <option name="value" value="127.0.0.1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="hostName" />
+                <option name="value" value="myHost" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceId" />
+                <option name="value" value="clinet-001" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceName" />
+                <option name="value" value="client" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="timeLimit" />
+                <option name="value" value="4000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="port" />
+                <option name="value" value="8080" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="register.do" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="ipAddr" />
+                <option name="value" value="127.0.0.1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="hostName" />
+                <option name="value" value="xxx" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceId" />
+                <option name="value" value="clinet-001" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceName" />
+                <option name="value" value="client" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="timeLimit" />
+                <option name="value" value="4000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="port" />
+                <option name="value" value="8080" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="ipAddr" />
+                <option name="value" value="127.0.0.1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="hostName" />
+                <option name="value" value="xxx" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceId" />
+                <option name="value" value="clinet-001" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceName" />
+                <option name="value" value="client" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="timeLimit" />
+                <option name="value" value="4000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="port" />
+                <option name="value" value="8080" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="register.do" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="ipAddr" />
+                <option name="value" value="127.0.0.1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="hostName" />
+                <option name="value" value="xxx" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceId" />
+                <option name="value" value="clinet-001" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="instanceName" />
+                <option name="value" value="client" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="timeLimit" />
+                <option name="value" value="4000" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="port" />
+                <option name="value" value="8080" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="client-register.do" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="register.do?ipAddr=127.0.0.1&amp;hostName=myHost&amp;instanceId=clinet-001&amp;instanceName=client&amp;timeLimit=4000&amp;port=8080" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8080/register.do" />
@@ -115,6 +479,14 @@
       <workItem from="1592093837384" duration="7339000" />
       <workItem from="1592341581969" duration="30000" />
       <workItem from="1592341616133" duration="2000" />
+      <workItem from="1592341688180" duration="121000" />
+      <workItem from="1592808463842" duration="2677000" />
+      <workItem from="1592824136370" duration="3929000" />
+      <workItem from="1593752256956" duration="3372000" />
+      <workItem from="1594137345534" duration="994000" />
+      <workItem from="1594146675473" duration="10457000" />
+      <workItem from="1594205208757" duration="4298000" />
+      <workItem from="1594298013659" duration="238000" />
     </task>
     <servers />
   </component>
@@ -122,45 +494,66 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="82" key="#Inspections" timestamp="1592044905941">
+    <state x="320" y="82" key="#Inspections" timestamp="1594150996664">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state x="320" y="82" key="#Inspections/0.23.1440.780@0.23.1440.780" timestamp="1594150996664" />
+    <state x="320" y="82" key="#Inspections/0.23.1440.784@0.23.1440.784" timestamp="1592826093835" />
+    <state x="320" y="82" key="#Project_Structure" timestamp="1592808569976">
       <screen x="0" y="23" width="1440" height="784" />
     </state>
-    <state x="320" y="82" key="#Inspections/0.23.1440.784@0.23.1440.784" timestamp="1592044905941" />
+    <state x="320" y="82" key="#Project_Structure/0.23.1440.784@0.23.1440.784" timestamp="1592808569976" />
+    <state x="533" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1594175504521">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state x="533" y="125" key="#com.intellij.ide.util.MemberChooser/0.23.1440.780@0.23.1440.780" timestamp="1594175504521" />
     <state x="492" y="280" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592094581315">
       <screen x="0" y="23" width="1440" height="784" />
     </state>
     <state x="492" y="280" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.784@0.23.1440.784" timestamp="1592094581315" />
-    <state width="1398" height="151" key="GridCell.Tab.0.bottom" timestamp="1592124777936">
-      <screen x="0" y="23" width="1440" height="784" />
+    <state x="458" y="168" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594148710955">
+      <screen x="0" y="23" width="1440" height="780" />
     </state>
+    <state x="458" y="168" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.780@0.23.1440.780" timestamp="1594148710955" />
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom" timestamp="1594211674789">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state width="1398" height="152" key="GridCell.Tab.0.bottom/0.23.1440.780@0.23.1440.780" timestamp="1594211674789" />
     <state width="1398" height="151" key="GridCell.Tab.0.bottom/0.23.1440.784@0.23.1440.784" timestamp="1592124777936" />
-    <state width="1398" height="151" key="GridCell.Tab.0.center" timestamp="1592124777936">
-      <screen x="0" y="23" width="1440" height="784" />
+    <state width="1398" height="152" key="GridCell.Tab.0.center" timestamp="1594211674788">
+      <screen x="0" y="23" width="1440" height="780" />
     </state>
+    <state width="1398" height="152" key="GridCell.Tab.0.center/0.23.1440.780@0.23.1440.780" timestamp="1594211674788" />
     <state width="1398" height="151" key="GridCell.Tab.0.center/0.23.1440.784@0.23.1440.784" timestamp="1592124777936" />
-    <state width="1398" height="151" key="GridCell.Tab.0.left" timestamp="1592124777936">
-      <screen x="0" y="23" width="1440" height="784" />
+    <state width="1398" height="152" key="GridCell.Tab.0.left" timestamp="1594211674787">
+      <screen x="0" y="23" width="1440" height="780" />
     </state>
+    <state width="1398" height="152" key="GridCell.Tab.0.left/0.23.1440.780@0.23.1440.780" timestamp="1594211674787" />
     <state width="1398" height="151" key="GridCell.Tab.0.left/0.23.1440.784@0.23.1440.784" timestamp="1592124777936" />
-    <state width="1398" height="151" key="GridCell.Tab.0.right" timestamp="1592124777936">
-      <screen x="0" y="23" width="1440" height="784" />
+    <state width="1398" height="152" key="GridCell.Tab.0.right" timestamp="1594211674788">
+      <screen x="0" y="23" width="1440" height="780" />
     </state>
+    <state width="1398" height="152" key="GridCell.Tab.0.right/0.23.1440.780@0.23.1440.780" timestamp="1594211674788" />
     <state width="1398" height="151" key="GridCell.Tab.0.right/0.23.1440.784@0.23.1440.784" timestamp="1592124777936" />
-    <state width="1398" height="151" key="GridCell.Tab.1.bottom" timestamp="1592124777937">
-      <screen x="0" y="23" width="1440" height="784" />
+    <state width="1398" height="152" key="GridCell.Tab.1.bottom" timestamp="1594211674790">
+      <screen x="0" y="23" width="1440" height="780" />
     </state>
+    <state width="1398" height="152" key="GridCell.Tab.1.bottom/0.23.1440.780@0.23.1440.780" timestamp="1594211674790" />
     <state width="1398" height="151" key="GridCell.Tab.1.bottom/0.23.1440.784@0.23.1440.784" timestamp="1592124777937" />
-    <state width="1398" height="151" key="GridCell.Tab.1.center" timestamp="1592124777937">
-      <screen x="0" y="23" width="1440" height="784" />
+    <state width="1398" height="152" key="GridCell.Tab.1.center" timestamp="1594211674789">
+      <screen x="0" y="23" width="1440" height="780" />
     </state>
+    <state width="1398" height="152" key="GridCell.Tab.1.center/0.23.1440.780@0.23.1440.780" timestamp="1594211674789" />
     <state width="1398" height="151" key="GridCell.Tab.1.center/0.23.1440.784@0.23.1440.784" timestamp="1592124777937" />
-    <state width="1398" height="151" key="GridCell.Tab.1.left" timestamp="1592124777937">
-      <screen x="0" y="23" width="1440" height="784" />
+    <state width="1398" height="152" key="GridCell.Tab.1.left" timestamp="1594211674789">
+      <screen x="0" y="23" width="1440" height="780" />
     </state>
+    <state width="1398" height="152" key="GridCell.Tab.1.left/0.23.1440.780@0.23.1440.780" timestamp="1594211674789" />
     <state width="1398" height="151" key="GridCell.Tab.1.left/0.23.1440.784@0.23.1440.784" timestamp="1592124777937" />
-    <state width="1398" height="151" key="GridCell.Tab.1.right" timestamp="1592124777937">
-      <screen x="0" y="23" width="1440" height="784" />
+    <state width="1398" height="152" key="GridCell.Tab.1.right" timestamp="1594211674790">
+      <screen x="0" y="23" width="1440" height="780" />
     </state>
+    <state width="1398" height="152" key="GridCell.Tab.1.right/0.23.1440.780@0.23.1440.780" timestamp="1594211674790" />
     <state width="1398" height="151" key="GridCell.Tab.1.right/0.23.1440.784@0.23.1440.784" timestamp="1592124777937" />
     <state width="1398" height="151" key="GridCell.Tab.2.bottom" timestamp="1592124777938">
       <screen x="0" y="23" width="1440" height="784" />
@@ -178,14 +571,28 @@
       <screen x="0" y="23" width="1440" height="784" />
     </state>
     <state width="1398" height="151" key="GridCell.Tab.2.right/0.23.1440.784@0.23.1440.784" timestamp="1592124777938" />
-    <state x="376" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1592341581667">
-      <screen x="0" y="23" width="1440" height="784" />
+    <state x="258" y="76" key="Maven.ArtifactSearchDialog" timestamp="1594206036364">
+      <screen x="0" y="23" width="1440" height="780" />
     </state>
-    <state x="376" y="249" key="com.intellij.ide.util.TipDialog/0.23.1440.784@0.23.1440.784" timestamp="1592341581667" />
+    <state x="258" y="76" key="Maven.ArtifactSearchDialog/0.23.1440.780@0.23.1440.780" timestamp="1594206036364" />
+    <state x="376" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1594205209419">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state x="376" y="248" key="com.intellij.ide.util.TipDialog/0.23.1440.780@0.23.1440.780" timestamp="1594205209419" />
+    <state x="376" y="249" key="com.intellij.ide.util.TipDialog/0.23.1440.784@0.23.1440.784" timestamp="1592808466513" />
+    <state x="425" y="213" key="git4idea.merge.GitPullDialog" timestamp="1594298288533">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state x="425" y="213" key="git4idea.merge.GitPullDialog/0.23.1440.780@0.23.1440.780" timestamp="1594298288533" />
     <state x="184" y="208" key="new project wizard" timestamp="1592046762314">
       <screen x="0" y="23" width="1440" height="784" />
     </state>
     <state x="184" y="208" key="new project wizard/0.23.1440.784@0.23.1440.784" timestamp="1592046762314" />
+    <state x="385" y="130" width="670" height="673" key="search.everywhere.popup" timestamp="1594206398994">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state x="385" y="130" width="670" height="673" key="search.everywhere.popup/0.23.1440.780@0.23.1440.780" timestamp="1594206398994" />
+    <state x="385" y="131" width="670" height="676" key="search.everywhere.popup/0.23.1440.784@0.23.1440.784" timestamp="1592817197816" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
